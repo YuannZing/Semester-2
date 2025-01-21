@@ -7,7 +7,7 @@ $Kelamin = "Laki-Laki";
 $Tempat_Lahir = "Malang";
 $Tanggal_Lahir = "8 Februari 2008";
 $Umur = 15;
-$Alamat = "Perumahan Graha Laksana Tidar F22";
+$Alamat = "PGLT F2";
 $Kelas = "X RPL A";
 
 echo "<center><table>
